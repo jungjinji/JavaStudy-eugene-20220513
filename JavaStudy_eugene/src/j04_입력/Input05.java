@@ -16,8 +16,7 @@ public class Input05 {
 		b = scanner.nextInt();
 
 		System.out.println("두 수의 합은: " + (a + b));
-		
-		
+			
 	}
 
 }

@@ -17,14 +17,13 @@ public class Input04 {
 		System.out.print("개요: ");
 		str1 = scanner.nextLine();
 		
-		scanner.nextLine();
 		
 		System.out.print("감독: ");
 		str2 = scanner.nextLine();
 		
 		scanner.nextLine();
 		
-		System.out.print("등급");
+		System.out.print("등급: ");
 		str3 = scanner.nextLine();
 		
 		scanner.nextLine();
@@ -38,16 +37,20 @@ public class Input04 {
 		str5 = scanner.nextLine();
 		scanner.nextLine();
 		str6 = scanner.nextLine();
+		
 		System.out.println("");
 		
 		System.out.println("개요: " + str1);
-		System.out.println("감독: " + str1);
-		System.out.println("등급: " + str1);
-		System.out.println("흥행: " + str1);
+		System.out.println("");
+		System.out.println("감독: " + str2);
+		System.out.println("");
+		System.out.println("등급: " + str3);
+		System.out.println("");
+		System.out.println("흥행: " + str4);
+		System.out.println("");
 		System.out.println("줄거리");
-		
-		
-		
+		System.out.println(str5);
+		System.out.println(str6);		
 	}
 
 }
