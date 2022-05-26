@@ -17,6 +17,10 @@ public class Casting {
 		System.out.println(e);
 		
 		//다운캐스팅 실수 - 정수 - 문자
+		
+	
+		
 	}
+
 
 }
