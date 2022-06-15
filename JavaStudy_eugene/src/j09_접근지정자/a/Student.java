@@ -4,6 +4,9 @@ public class Student {
 	private String name;
 	private String schoolName; 
 	
+	public Student() {
+		// TODO Auto-generated constructor stub
+	}
 	//setter
 	public void setName(String name) {
 		this.name = name;
